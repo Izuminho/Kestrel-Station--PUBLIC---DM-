@@ -1,4 +1,4 @@
-# Beat!Station
+# Kestrel Station
 [![Build Status](https://api.travis-ci.org/Beat-Station/Beat-Station.svg?branch=master)](https://travis-ci.org/Beat-Station/Beat-Station)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Beat-Station/Beat-Station.svg)](http://isitmaintained.com/project/Beat-Station/Beat-Station "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Beat-Station/Beat-Station.svg)](http://isitmaintained.com/project/Beat-Station/Beat-Station "Percentage of issues still open")
