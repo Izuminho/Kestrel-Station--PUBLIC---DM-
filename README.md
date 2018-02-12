@@ -8,9 +8,9 @@
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
 
-[Website](beat.misterio7.com/) - [Code](https://github.com/Beat-Station/Beat-Station) - [Discord](https://discord.gg/JVbQmS3)
+[Website](beat.misterio7.com/) - [Code](https://github.com/Comicao1/Kestrel-Station--PUBLIC---DM-) - [Discord](https://discord.gg/2y6zEZx)
 
-It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise) and [Goon Station](https://github.com/goonstation/goonstation-2016) - This is the customized code we use at Brazilian Station server on BYOND. I've made some modifications, so i'm uploading the source. Enjoy.
+It's based on [Paradise Station](https://github.com/ParadiseSS13/Paradise)  [Goon Station](https://github.com/goonstation/goonstation-2016) and [Beat! Station] (https://github.com/Nopm/Beat-Station) 
 
 # Information
 This is a code used in a Brazilian server. Everyone is welcome to contribute though.
